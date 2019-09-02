@@ -1,0 +1,12 @@
+/bin
+/build
+/gradle
+/.gradle
+/.settings
+.classpath
+.project
+*~
+private.groovy
+.idea/
+*.iml
+out/
